@@ -1,0 +1,1 @@
+Add clear photos or scans of the handwritten explanations required by the exercise here. Cover the location, discovery, root cause, and fix for each change described in `NOTES.md`.
